@@ -147,7 +147,7 @@
                         </action>
                         <action id="0" name="Call function" sid="304790185942551" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
-                            <param id="1" name="Parameter {n}">0{###}192{###}160{###}2{###}&quot;Endless&quot;{###}&quot;MenuModeEndless&quot;</param>
+                            <param id="1" name="Parameter {n}">0{###}192{###}160{###}2{###}&quot;kayip edersen bir daha canlanamazsın&quot;{###}&quot;MenuModeEndless&quot;</param>
                         </action>
                         <action id="0" name="Call function" sid="326311762535984" type="Function">
                             <param id="0" name="Name">&quot;CreateMenuItem&quot;</param>
